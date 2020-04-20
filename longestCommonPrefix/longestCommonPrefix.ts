@@ -11,3 +11,6 @@ const longestCommonPrefix = function(strs) {
   });
 };
 console.log(longestCommonPrefix([]));
+
+// Input: ["flower","flow","flight"]
+// Output: "fl"
